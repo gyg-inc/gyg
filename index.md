@@ -4,13 +4,11 @@ Gyg will create an easy market for people looking for side jobs and those with s
 jobs. It will handle the transactions and also help create a safe way for people to find jobs or
 workers for their jobs. 
 
-<center><iframe width="560" height="315" frameborder="0"
-src="https://www.youtube.com/embed/dQw4w9WgXcQ">
-</iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/gZ4YyeXjJO0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ### <center>Developers</center>
 
-<center>Justin 'Anthony' Timberlake</center>  
+<center>J. nthony Timberlake</center>  
 <center>Shawn Mitchell</center>  
 <center>Isuru Nanayakkara</center>  
 <center>Jonathan Luetze</center>  
