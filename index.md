@@ -8,7 +8,7 @@ workers for their jobs.
 
 ### <center>Developers</center>
 
-<center>J. nthony Timberlake</center>  
+<center>J. Anthony Timberlake</center>  
 <center>Shawn Mitchell</center>  
 <center>Isuru Nanayakkara</center>  
 <center>Jonathan Luetze</center>  
