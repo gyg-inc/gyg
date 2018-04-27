@@ -23,3 +23,4 @@ workers for their jobs.
 [Requirements Presentation](../gyg/Requirements-Presentation.pdf)  
 [Source Code](https://github.com/gyg-inc/gyg-android)  
 [APK](https://github.com/gyg-inc/gyg/blob/master/app-release.apk?raw=true) 
+<center>APK does not work the same as the finished App (not sure why). Please build app from source code for it to work as expected</center>
