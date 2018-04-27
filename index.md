@@ -20,6 +20,6 @@ workers for their jobs.
 [Design Document](../gyg/Design.pdf)  
 [Design Presentation](../gyg/Gyg Design Presentation.pptx)  
 [Requirements Document](../gyg/Requirements.pdf)  
-[Requirements Presentation](gyg/Requirements-Presentation.pdf)  
+[Requirements Presentation](https://github.com/gyg-inc/gyg/Requirements-Presentation.pdf)  
 [Source Code](https://github.com/gyg-inc/gyg-android)  
 [APK](https://github.com/gyg-inc/gyg/blob/master/app-debug.apk?raw=true) 
