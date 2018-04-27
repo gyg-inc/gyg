@@ -22,4 +22,4 @@ workers for their jobs.
 [Requirements Document](../gyg/Requirements.pdf)  
 [Requirements Presentation](../gyg/Requirements-Presentation.pdf)  
 [Source Code](https://github.com/gyg-inc/gyg-android)  
-[APK](https://github.com/gyg-inc/gyg/blob/master/app-debug.apk?raw=true) 
+[APK](https://github.com/gyg-inc/gyg/blob/master/app-release.apk?raw=true) 
